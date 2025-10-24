@@ -1,0 +1,5 @@
+Model,Mean Squared Error,R2 Score
+Linear Regression,2.56622E+14,0.39052981
+Decision Tree,6.23398E+13,0.851944544
+Random Forest,9.23858E+13,0.780585831
+Gradient Boosting,2.2254E+14,0.471471661
